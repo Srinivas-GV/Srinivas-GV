@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srinivas-GV
-- 👀 I’m interested in tryng out new framework and provide easy solutions
+- 👀 I’m interested in trying out new framework and provide easy solutions
 - 🌱 I’m currently learning angular and native application development
-- 💞️ I’m looking to collaborate on Different fraeworks 
+- 💞️ I’m looking to collaborate on different frameworks 
 - 📫 How to reach me - Srinivas.Appdev@gmail.com
 
 <!---
